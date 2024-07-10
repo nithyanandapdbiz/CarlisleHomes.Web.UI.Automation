@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarlisleHomes.Web.UI.Automation.Framework", "CarlisleHomes.Web.UI.Automation.Framework\CarlisleHomes.Web.UI.Automation.Framework.csproj", "{98127860-4032-4DA8-9007-B4A3EA821FD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarlisleHomes.Web.UI.Automation.Tests", "CarlisleHomes.Web.UI.Automation.Tests\CarlisleHomes.Web.UI.Automation.Tests.csproj", "{0BA462C5-DEE4-4E0A-AB90-9F422693E7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98127860-4032-4DA8-9007-B4A3EA821FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98127860-4032-4DA8-9007-B4A3EA821FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98127860-4032-4DA8-9007-B4A3EA821FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98127860-4032-4DA8-9007-B4A3EA821FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA462C5-DEE4-4E0A-AB90-9F422693E7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA462C5-DEE4-4E0A-AB90-9F422693E7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA462C5-DEE4-4E0A-AB90-9F422693E7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA462C5-DEE4-4E0A-AB90-9F422693E7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B466D378-B0A8-46FE-8BA6-37036E1FCCE1}
+	EndGlobalSection
+EndGlobal
